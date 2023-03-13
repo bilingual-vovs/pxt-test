@@ -1,6 +1,6 @@
 {
-    "name": "educationcontent",
-    "version": "8.0.2",
+    "name": "GoITeens-extention",
+    "version": "1.0.0",
     "dependencies": {
         "core": "*",
         "builder": "*"
@@ -9,7 +9,7 @@
         "README.md",
         "main.ts"],
     "targetVersions": {
-        "target": "1.0.0",
+        "target": "1.6.8",
         "targetId": "minecraft"
     },
     "supportedTargets": [
