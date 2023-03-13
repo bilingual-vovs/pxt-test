@@ -1,19 +1,11 @@
 {
-    "name": "GoITeens-extention",
-    "version": "1.0.0",
-    "dependencies": {
-        "core": "*",
-        "builder": "*"
-    },
-    "files": [
-        "README.md",
-        "main.ts"],
-    "targetVersions": {
-        "target": "1.6.8",
-        "targetId": "minecraft"
-    },
-    "supportedTargets": [
-        "minecraft"
-    ],
-    "preferredEditor": "tsprj"
+    "name": "goITeens-test",
+    "description": "Some test extention",   
+    "authors": ["vovs"],
+
+    "files": ["main.ts", "README.md", "pxt.json"],          
+    "public": true,       
+
+    "version": "1.0.0"
+
 }
