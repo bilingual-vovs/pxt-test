@@ -1,0 +1,14 @@
+{
+  "name": "pxt-test",
+  "version": "1.0.0",
+  "description": "for PXT/minecraft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pxt": "^0.5.1"
+  }
+}
