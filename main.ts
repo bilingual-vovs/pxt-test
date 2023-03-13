@@ -5,3 +5,6 @@ function init() {
         }
     }
 }
+function test(){
+    player.say(2023)
+}
